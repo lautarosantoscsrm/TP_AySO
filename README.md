@@ -4,7 +4,7 @@ Turno: Mañana
  E0F
 
 E0F
-Alumno: Lautar Gael Santos
+Alumno: Lautaro Gael Santos
 
 División: 115
 
